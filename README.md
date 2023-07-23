@@ -58,7 +58,7 @@
                 }
             }
 
-            alert("Ganaste " + triunfos + " veces. Perdiste " + perdidas + " veces. Empataste " + empates + " veces.\n\n¡Felicidades! Has completado el juego con éxito. Se han deducido 100€ de tu cuenta bancaria como tarifa por usar esta versión especial del juego.\n\n¡Gracias por jugar, y por tu dinero, recuerda que la próxima vez solo necesitas tu talento y destreza para vencer!");
+            alert("Ganaste " + triunfos + " veces. Perdiste " + perdidas + " veces. Empataste " + empates + " veces.\n\n¡Felicidades! Has completado el juego con éxito. Se han deducido 100€ de tu cuenta bancaria como tarifa por usar esta versión especial del juego.\n\n¡Gracias por jugar, y por tu dinero, 😀  es broma, Gracias por jugar , si te gusto mi juego mandame un mensaje te lo agradecería de corazón, recuerda que la próxima vez solo necesitas tu talento y destreza para vencer!");
 
             // Preguntar si quiere volver a jugar
             if (confirm("¿Quieres volver a jugar? Ingresa otros 5 euros. Ya con este juego se te cobró del banco cien euros.")) {
